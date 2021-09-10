@@ -27,6 +27,8 @@ function clickhandler() {
         outputDiv.innerText= translatedText;  
     }).catch(errorhandler)
 
+    
+
 
 
 
